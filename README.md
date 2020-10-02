@@ -19,4 +19,9 @@ pip install lolcat
 pip install requests
 pip install mechanize
 pip install bs4
-git clone 
+git clone https://github.com/MrC4C4T/SamlkomFB
+ls
+cd SamlkomFB
+ls
+sh MrC4C4T.sh
+Udh Selesai Make Nyaa Yng Bener Yee Taiii1!1!
