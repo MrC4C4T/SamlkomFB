@@ -16,14 +16,14 @@ sleep 1
 echo $bi"    =======================================|"
 echo $me"     #  ===================================|"
 sleep 1
-echo $ij"     #   >> AUTHOR    : MrC4C4T            #"
+echo $ij"     #   >> AUTHOR : MrC4C4T            #"
 echo $bi"     #  ===================================|"
 sleep 1
-echo $ij"     #   >> GITHUB    : https://github.com/MrC4C4T          #"
+echo $ij"     #   >> GITHUb : MrC4CT         #"
 echo $bi"    =======================================|"
 echo $me"     #  ===================================|"
 sleep 1
-echo $ij"     #   >> WHATSAPPE : 083842862269      #"
+echo $ij"     #   >> Wa/No  : 083842862269      #"
 echo $bi"    =======================================|"
 echo
 sleep 1
@@ -35,10 +35,10 @@ echo $ku"                # PILIH MENU #"
 
 echo
 echo $ki"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-echo $cy"@           💗💗💗💗💗💗               @@"
-echo $cy"@              sayang                  @@"
-echo $cy"@           💓💓💓💓💓💓               @@"
-echo $cy"@                🔥                    @@"
+echo $cy"@           🌏🌏🌏🌏🌏🌏               @@"
+echo $cy"@              Kontol                  @@"
+echo $cy"@           ⚫⚫⚫⚫⚫⚫               @@"
+echo $cy"@                 🌍                   @@"
 echo $ku"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
 sleep 1
 echo
