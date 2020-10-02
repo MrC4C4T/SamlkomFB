@@ -1,2 +1,8 @@
 # SamlkomFB
-Sc Nya Kalo Udh Lu Update atau Upgrade Tinggal Masukin git clone nya aja yak
+Di Sini Guaa Bagi²Sc DarkFb Yak 
+Jalanini Perintah Nya Yng Bener Komtol:v
+
+
+
+
+#
